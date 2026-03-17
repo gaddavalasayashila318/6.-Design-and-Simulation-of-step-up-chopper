@@ -47,4 +47,6 @@ Current Ripple (∆I) = 2A
 
 ## Simulation
 ## Output
+![EXPERIMENT 6 -- Simulation of step up chooper ](https://github.com/user-attachments/assets/40e88489-42b8-4ba1-b4c8-b6369fc87de8)
+
 ## Result
